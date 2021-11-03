@@ -1,1 +1,3 @@
 # Blood_Donation_Management_System
+
+The Blood Bank Management System  is in Java, MySQL. Talking about the features of this system, it  contains the User Login section which have a Username and Password field with a radio button for two options i.e., for the user who is a donor and another one for the purchaser. The registered user is able to sign in and can either donate the blood or purchase it from the available blood packets. Talking about other tabs are, the available blood packets, searching for a donor, blood donor history, and blood purchaser history. The main feature of this system is to provide a platform for the people who want to donate blood, and for those who need the blood, but sometimes don’t find it due to lack of contact details. 
